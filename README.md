@@ -11,11 +11,9 @@
 |-------------|--------|
 | **Nama** | Gohan Ambarita |
 | **NIM** | 123140160 |
-| **Kelas** | RA |
+| **Kelas** | RB |
 | **Mata Kuliah** | Pengembangan Aplikasi Web |
-| **Dosen Pengampu** | [Masukkan Nama Dosen] |
 | **Repository GitHub** | [UTS_Pemweb_123140160_Gohan](https://github.com/14-123140160-GohanTuaJeremiaAmbarita/UTS_Pemweb_123140160_Gohan) |
-| **Tahun Akademik** | 2025 |
 
 ---
 
