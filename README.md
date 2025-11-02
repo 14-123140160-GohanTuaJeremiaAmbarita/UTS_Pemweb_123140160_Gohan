@@ -50,6 +50,46 @@ Tampilan dibuat dengan tema **putih minimalis elegan** agar nyaman digunakan di 
 | **Build Tools** | Vite ⚡ |
 | **Deployment** | Vercel / Netlify 🚀 |
 
+## Cara Instalasi dan Menjalankan Proyek
+
+Jika Anda ingin menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berikut:
+
+1.  **Clone repository ini:**
+    ```bash
+    git clone [MASUKKAN_URL_GIT_REPOSITORY_ANDA_DI_SINI]
+    ```
+
+2.  **Masuk ke direktori proyek:**
+    ```bash
+    cd [NAMA_FOLDER_PROYEK_ANDA]
+    ```
+
+3.  **Install semua dependencies:**
+    ```bash
+    npm install
+    ```
+
+4.  **Jalankan aplikasi di mode development:**
+    ```bash
+    npm run dev
+    ```
+
+5.  Buka `http://localhost:5173` (atau port yang tertera di terminal Anda) di browser.
+
+
+## Tampilan Aplikasi
+
+Berikut adalah screenshot dari tampilan aplikasi:
+
+**Halaman Beranda **
+![Tampilan Halaman Beranda](./Screenshot/Beranda.png)
+
+**Halaman Pencarian**
+![Tampilan Halaman Favorit](./Screenshot/Pencarian.png)
+
+**Halaman Detail Film**
+![Tampilan Halaman Favorit](./Screenshot/Detail.png)
+
 ---
 
 ## 🧩 Struktur Folder Proyek
