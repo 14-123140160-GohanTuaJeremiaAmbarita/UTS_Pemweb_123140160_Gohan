@@ -19,7 +19,7 @@
 
 ## 🌐 Link Deployment
 Aplikasi dapat diakses secara online melalui:
-👉 [**Klik di sini untuk membuka Movie Explorer**](https://<masukkan-link-vercel-atau-netlify-di-sini>.vercel.app)
+👉 [**Klik di sini untuk membuka Movie Explorer**](https://uts-p-git-cb1118-14-123140160-gohantuajeremiaambaritas-projects.vercel.app)
 
 ---
 
