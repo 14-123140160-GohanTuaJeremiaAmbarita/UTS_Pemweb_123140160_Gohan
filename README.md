@@ -81,7 +81,7 @@ Jika Anda ingin menjalankan proyek ini di komputer lokal Anda, ikuti langkah-lan
 
 Berikut adalah screenshot dari tampilan aplikasi:
 
-**Halaman Beranda **
+**Halaman Beranda**
 ![Tampilan Halaman Beranda](./Screenshot/Beranda.png)
 
 **Halaman Pencarian**
@@ -92,5 +92,4 @@ Berikut adalah screenshot dari tampilan aplikasi:
 
 ---
 
-## 🧩 Struktur Folder Proyek
 
